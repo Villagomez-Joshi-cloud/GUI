@@ -32,7 +32,6 @@ def get_weather(city):
 	label['text'] = format_response(weather)
 
 
-
 root = tk.Tk()
 
 canvas = tk.Canvas(root, height=HEIGHT, width=WIDTH)
