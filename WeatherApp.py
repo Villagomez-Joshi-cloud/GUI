@@ -57,4 +57,3 @@ label = tk.Label(lower_frame)
 label.place(relwidth=1, relheight=1)
 
 root.mainloop()
-
